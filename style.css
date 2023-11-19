@@ -90,3 +90,15 @@ body{
     background: linear-gradient(to left , #f9f9f9 , #e7e7e7);
 
 }
+.plate::after{
+    content:'';
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    bottom: 30px;
+    right: 30px;
+    border-radius: 50%;
+    background: radial-gradient(rgba(0,0,0,0.2) 25% , transparent , transparent);
+    border-radius: 50%;
+
+}
