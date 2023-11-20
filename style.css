@@ -146,10 +146,7 @@ body{
     }
 }
 @media screen and (max-width :576px) {
- body{
-        background-color: #c57e65;
-        
-    }
+
 .cup{
     width: 200px;
 }
